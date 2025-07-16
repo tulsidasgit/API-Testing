@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T07:11:29 IST" name="Default suite" finished-at="2023-09-29T07:11:31 IST" duration-ms="1696">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T07:11:29 IST" name="Default test" finished-at="2023-09-29T07:11:31 IST" duration-ms="1696">
+      <class name="Day2.HTTTPRequest">
+        <test-method signature="getUser()[pri:1, instance:Day2.HTTTPRequest@448c8166]" started-at="2023-09-29T07:11:29 IST" name="getUser" finished-at="2023-09-29T07:11:30 IST" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="createUser()[pri:2, instance:Day2.HTTTPRequest@448c8166]" started-at="2023-09-29T07:11:30 IST" name="createUser" finished-at="2023-09-29T07:11:31 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="updateUser()[pri:3, instance:Day2.HTTTPRequest@448c8166]" started-at="2023-09-29T07:11:31 IST" name="updateUser" finished-at="2023-09-29T07:11:31 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="deleteUser()[pri:4, instance:Day2.HTTTPRequest@448c8166]" started-at="2023-09-29T07:11:31 IST" name="deleteUser" finished-at="2023-09-29T07:11:31 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- Day2.HTTTPRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
